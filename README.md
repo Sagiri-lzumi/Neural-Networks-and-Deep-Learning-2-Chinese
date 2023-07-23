@@ -8,6 +8,9 @@ description: Readme
 汉化进度
 {% endhint %}
 
+```mermaid
+```
+
 * [x] 引言
 * [ ] 使用神经网络识别手写数字
   * [ ] 察觉器
