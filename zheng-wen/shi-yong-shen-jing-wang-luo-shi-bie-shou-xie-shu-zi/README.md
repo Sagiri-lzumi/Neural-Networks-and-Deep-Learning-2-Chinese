@@ -14,7 +14,7 @@ description: Using neural nets to recognize handwritten digits
 
 神经网络以不同的方式解决这一问题。其思路是获取大量手写数字，即训练实例；
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>numbers</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>numbers</p></figcaption></figure>
 
 然后开发一个能够从这些训练实例中学习的系统。换句话说，神经网络利用这些示例自动推断出识别手写数字的规则。此外，通过增加训练示例的数量，神经网络可以学习到更多关于笔迹的知识，从而提高准确率。因此，虽然我在上文只展示了 100 个训练数字，但也许我们可以通过使用数千、数百万甚至数十亿个训练示例来构建更好的手写识别器。
 
