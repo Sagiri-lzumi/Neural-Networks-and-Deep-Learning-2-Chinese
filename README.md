@@ -82,6 +82,14 @@ description: Readme
 链接
 {% endembed %}
 
+本书链接：
+
+
+
+{% embed url="https://app.gitbook.com/s/HWN5hG2sZlPFAvyDyfUB/" %}
+Link
+{% endembed %}
+
 {% hint style="info" %}
 原来看到过关于这一本书汉化，但是它并没有完全做完，很多内容都没有，于是我最终决定利用寒假实践学习机器学习以及对这本书进行汉化。
 {% endhint %}
