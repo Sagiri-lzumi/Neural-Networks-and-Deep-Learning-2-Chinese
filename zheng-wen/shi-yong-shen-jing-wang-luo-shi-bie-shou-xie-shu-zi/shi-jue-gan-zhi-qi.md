@@ -19,3 +19,17 @@ $$
 $$
 
 是否小于或大于某个阈值。与权重一样，阈值是神经元的一个实数参数。更精确地用代数术语表示：
+
+$$
+\begin{eqnarray}
+  \mbox{output} & = & \left\{ \begin{array}{ll}
+      0 & \mbox{if } \sum_j w_j x_j \leq \mbox{ threshold} \\
+      1 & \mbox{if } \sum_j w_j x_j > \mbox{ threshold}
+      \end{array} \right.
+\tag{1}\end{eqnarray}
+$$
+
+
+
+
+
