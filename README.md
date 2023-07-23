@@ -6,10 +6,13 @@ description: Readme
 
 {% hint style="warning" %}
 汉化进度
+
+(在GitHub上格式有所错误，请跳转至GitBook查看)
 {% endhint %}
 
-```mermaid
-```
+{% embed url="https://sagiri-lzumis.gitbook.io/neural-networks-and-deep-learning-cns/" %}
+Link
+{% endembed %}
 
 * [x] 引言
 * [ ] 使用神经网络识别手写数字
@@ -81,15 +84,11 @@ description: Readme
 
 译者GitHub：
 
-{% embed url="https://github.com/Sagiri-lzumi" %}
-链接
-{% endembed %}
+{% @github-files/github-code-block url="https://github.com/Sagiri-lzumi" %}
 
 本书链接：
 
-
-
-{% embed url="https://app.gitbook.com/s/HWN5hG2sZlPFAvyDyfUB/" %}
+{% embed url="https://sagiri-lzumis.gitbook.io/neural-networks-and-deep-learning-cns/" %}
 Link
 {% endembed %}
 
