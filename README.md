@@ -10,14 +10,22 @@ description: Readme
 (在GitHub上格式有所错误，请跳转至GitBook查看)
 {% endhint %}
 
+{% hint style="info" %}
+本人才疏学浅，如有错误求大佬指正，请多多海涵！
+
+您可以随意格式在下GitHub链接pull request,谢谢!
+{% endhint %}
+
+{% @github-files/github-code-block url="https://github.com/Sagiri-lzumi/Neural-Networks-and-Deep-Learning-2-Chinese" %}
+
 {% embed url="https://sagiri-lzumis.gitbook.io/neural-networks-and-deep-learning-cns/" %}
 Link
 {% endembed %}
 
 * [x] 引言
 * [ ] 使用神经网络识别手写数字
-  * [ ] 察觉器
-  * [ ] 西格玛神经元
+  * [x] 感知器
+  * [ ] Sigmoid神经网络
   * [ ] 神经网络的结构
   * [ ] 一个简单的网络对手写数字进行分类
   * [ ] 用梯度下降法学习
@@ -93,7 +101,7 @@ Link
 {% endembed %}
 
 {% hint style="info" %}
-原来看到过关于这一本书汉化，但是它并没有完全做完，很多内容都没有，于是我最终决定利用寒假实践学习机器学习以及对这本书进行汉化。
+原来看到过关于这一本书汉化，但是它并没有完全做完，很多内容都没有，于是我最终决定利用寒假实践学习机器学习以及对这本书进行汉化。（然而现在都暑假了才动工。。。）
 {% endhint %}
 
 [Books Icon](https://iconscout.com/icons/books) by [The Icon Z](https://iconscout.com/contributors/theiconz)

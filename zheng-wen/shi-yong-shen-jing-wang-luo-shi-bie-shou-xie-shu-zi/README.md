@@ -6,7 +6,7 @@ description: Using neural nets to recognize handwritten digits
 
 人类的视觉系统是世界上的奇迹之一。考虑一下下面这一串手写的数字。
 
-<figure><img src="../../.gitbook/assets/image.png" alt="" width="312"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt="" width="312"><figcaption></figcaption></figure>
 
 大多数人不费吹灰之力就能认出这些数字是 504192。这种轻松是具有欺骗性的。在我们大脑的每个半球，人类都有一个初级视觉皮层，也称为 V1，包含 1.4 亿个神经元，它们之间有数百亿个连接。然而，人类的视觉不仅包括 V1，还包括一整套视觉皮层--V2、V3、V4 和 V5--进行逐渐复杂的图像处理。我们的大脑中装有一台超级计算机，经过数亿年的进化调整，已经非常适合理解视觉世界。识别手写数字并不容易。相反，我们人类在理解眼睛所显示的内容方面有着惊人的能力。但几乎所有这些工作都是在无意识的情况下完成的。因此，我们通常并不了解我们的视觉系统能解决多么棘手的问题。
 
