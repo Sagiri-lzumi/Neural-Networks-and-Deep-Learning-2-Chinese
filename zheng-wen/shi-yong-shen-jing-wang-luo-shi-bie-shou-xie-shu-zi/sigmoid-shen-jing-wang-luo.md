@@ -67,3 +67,9 @@ $$
 
 <figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
+如果σ实际上是一个阶跃函数，那么sigmoid神经元将成为一个感知器，因为输出将取决于w⋅x+b是正数还是负数\*\*。通过使用实际的σ函数，我们得到了如上面所暗示的，一个平滑的感知器。实际上，正是σ函数的平滑性是关键的，而不是它的详细形式。σ函数的平滑性意味着对权重Δwj和偏置Δb的微小变化会导致输出Δoutput的微小变化。实际上，微积分告诉我们Δoutput可以很好地近似为以下形式：
+
+\*\*实际上，当w⋅x+b=0时，感知器输出0，而阶跃函数输出1。所以，严格来说，我们需要在那一点修改阶跃函数。但你明白我的意思。
+
+<figure><img src="../../.gitbook/assets/image (10).png" alt="" width="321"><figcaption></figcaption></figure>
+
