@@ -96,7 +96,7 @@ NAND门的例子表明我们可以使用感知器来计算简单的逻辑函数�
 
 到目前为止，我一直在将输入x1和x2绘制为漂浮在感知器网络左侧的变量。实际上，习惯上绘制一个额外的感知器层 - 输入层 - 来表示输入：
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 这种用于输入感知器的符号表示中，我们有一个输出，但没有输入，
 

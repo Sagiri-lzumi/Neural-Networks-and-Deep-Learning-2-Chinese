@@ -6,13 +6,13 @@ description: Sigmoid neurons
 
 ####
 
-#### [Sigmoid neurons](http://neuralnetworksanddeeplearning.com/chap1.html#sigmoid\_neurons)
+#### [Sigmoid neurons](http://neuralnetworksanddeeplearning.com/chap1.html#sigmoid_neurons)
 
 学习算法听起来很棒。但是我们如何为神经网络设计这样的算法呢？假设我们有一个感知器网络，我们想要用它来学习解决某个问题。
 
 例如，网络的输入可能是来自手写数字扫描图像的原始像素数据。我们希望网络能够学习权重和偏置，以使网络的输出正确地对数字进行分类。为了看看学习是如何工作的，假设我们对网络中的某个权重（或偏置）进行微小的改变。我们希望这个微小的权重变化只引起网络输出的相应小变化。正如我们马上会看到的，这种性质将使学习成为可能。这里是一个示意图（显然，这个网络对手写识别来说太简单了！):
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 如果一个权重（或偏置）的微小变化导致输出只有微小变化的话，我们可以利用这个事实来修改权重和偏置，使得网络的行为更符合我们的要求。例如，假设网络错误地将一幅图像分类为“8”，而实际上它应该是“9”。我们可以找出如何微调权重和偏置，使得网络更接近将图像分类为“9”。然后我们会不断重复这个过程，一遍又一遍地调整权重和偏置，以产生越来越好的输出。网络将在学习中不断改进。
 
@@ -58,7 +58,7 @@ $$
 
 那么σ的代数形式如何理解呢？实际上，σ的确切形式并不那么重要——真正重要的是在绘图时的函数形状。下面是这个形状：
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 这个形状是一个平滑的阶跃函数版本：
 
